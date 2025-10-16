@@ -4,7 +4,7 @@ A production-ready Express.js API that serves profile information with dynamic c
 
 ## 🚀 Live Demo
 
-- **Production URL**: [Your deployed URL here]
+- **Production URL**: [https://stage0-production-38d1.up.railway.app/]
 - **Profile Endpoint**: `GET /me`
 - **Health Check**: `GET /health`
 
